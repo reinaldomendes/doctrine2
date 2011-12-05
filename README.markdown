@@ -16,3 +16,4 @@ without requiring unnecessary code duplication.
 * [Issue Tracker](http://www.doctrine-project.org/jira/browse/DDC)
 * [Downloads](http://github.com/doctrine/doctrine2/downloads)
 
+..
